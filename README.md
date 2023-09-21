@@ -1,5 +1,6 @@
 # Canine-Health-Monitor
  BiomedicalEngineer-Capstone
+![CHM](ECG.jpg)
 
 Main Project Leader Engineer: Joseph Medina
 
